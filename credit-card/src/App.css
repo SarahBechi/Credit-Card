@@ -1,0 +1,83 @@
+.img {
+  width: 488px;
+
+  margin-left: 250px;
+  margin-top: 100px;
+}
+.inputs {
+  display: flex;
+  flex-direction: column;
+  width: 343px;
+  font-family: "Teko", sans-serif;
+  height: 130px;
+  justify-content: space-around;
+  margin-left: 794px;
+  margin-top: -222px;
+}
+.firstInput,
+.secondInput,
+.thirdInput {
+  border: solid 3px black;
+  padding: 6px;
+}
+.companyName {
+  color: white;
+  font-size: 25px;
+  margin-left: 548px;
+  margin-top: -276px;
+  position: absolute;
+}
+.userNumber {
+  background-color: #124164;
+  position: absolute;
+  margin-top: 231px;
+  margin-left: -441px;
+  padding: 4px;
+  width: 234px;
+  color: white;
+  font-family: "Teko", sans-serif;
+}
+.date {
+  background-color: #124164;
+  position: absolute;
+  margin-top: 274px;
+  margin-left: -302px;
+  padding: 4px;
+  width: 60px;
+  color: white;
+  font-family: "Teko", sans-serif;
+}
+.userName {
+  background-color: #124164;
+  position: absolute;
+  margin-top: 342px;
+  margin-left: -439px;
+  padding: 7px;
+  color: white;
+  font-family: "Teko", sans-serif;
+}
+
+.enterName {
+  margin-top: 232px;
+  position: absolute;
+  margin-left: -484px;
+  font-size: 38px;
+  color: white;
+}
+.entries {
+  position: absolute;
+  margin-left: 769px;
+  margin-top: -320px;
+}
+.enterNumber {
+  color: white;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: -483px;
+}
+.enterDate {
+  position: absolute;
+  margin-left: -255px;
+  margin-top: 183px;
+  color: white;
+}
